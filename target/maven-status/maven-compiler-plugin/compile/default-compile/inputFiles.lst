@@ -1,0 +1,13 @@
+C:\springboot\kakao\src\main\java\com\woojin\dto\UserReq.java
+C:\springboot\kakao\src\main\java\com\woojin\exception\DuplicateNicknameException.java
+C:\springboot\kakao\src\main\java\com\woojin\dto\UserRes.java
+C:\springboot\kakao\src\main\java\com\woojin\vo\MemberVO.java
+C:\springboot\kakao\src\main\java\com\woojin\ChatApplication.java
+C:\springboot\kakao\src\main\java\com\woojin\controller\MemberController.java
+C:\springboot\kakao\src\main\java\com\woojin\service\MemberService.java
+C:\springboot\kakao\src\main\java\com\woojin\exception\DuplicateEmailException.java
+C:\springboot\kakao\src\main\java\com\woojin\exception\UserNotFoundException.java
+C:\springboot\kakao\src\main\java\com\woojin\mapper\MemberMapper.java
+C:\springboot\kakao\src\main\java\com\woojin\exception\Nopepassword.java
+C:\springboot\kakao\src\main\java\com\woojin\repository\MainRepository.java
+C:\springboot\kakao\src\main\java\com\woojin\config\SwaggerConfig.java

@@ -1,0 +1,4 @@
+com\woojin\model\dd\TestRepository.class
+com\woojin\model\dd\TestEntity$TestEntityBuilder.class
+com\woojin\model\dd\TestService.class
+com\woojin\model\dd\TestEntity.class

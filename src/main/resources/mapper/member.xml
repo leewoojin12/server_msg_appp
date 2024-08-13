@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.woojin.mapper.MemberMapper">
+    <insert id="save">
+        INSERT INTO membervo (email, password,username,nickname)
+        VALUES (#{mem.email}, #{mem.password}, #{mem.username},#{mem.nickname});
+    </insert>
+    <update id="addfriend" >
+        UPDATE memberVO SET friendnickname = #{friendnickname} WHERE nickname = #{nickname};
+    </update>
+</mapper>
